@@ -3,7 +3,7 @@
  
  I am a second year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
  And also an avid, curious and focused developer. ✨ <br>
- Cloud, Full-stack and AR enthusiat. ☁<br>
+ Cloud, Full-stack and AR enthusiast. ☁<br>
 
 - :man_technologist: Code: HTML, CSS, JavaScript, React.js , Node.js, Next.js and C++. 🕸
 - 🔭 I’m currently working on ... Next js, Node js, APIs and web projects 🐱‍👤

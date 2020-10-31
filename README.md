@@ -1,4 +1,4 @@
-### Hola, I am Akshay 😁
+## Hola, I am Akshay 😁
 #### I am a second year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.
 #### And also an avid, curious and focused developer. ✨
 #### Cloud, Full-stack and AR enthusiat.

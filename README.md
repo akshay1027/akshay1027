@@ -8,3 +8,5 @@
 #### - 🔭 I’m currently working on ... Next js, Node js, APIs and web projects 🐱‍👤
 #### - ⚡ Fun fact: ... love exploring new Tech 👨‍💻| football ⚽| company with friends 😻
 
+<img src="https://github-readme-stats.vercel.app/api?username=akshay1027&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+

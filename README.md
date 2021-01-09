@@ -11,7 +11,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay1027.visitor-badge&style=flat-square&color=0088cc)<br>
 
-github stats:
+<h4>github stats:
 <img src="https://github-readme-stats.vercel.app/api?username=akshay1027&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <a href="https://www.linkedin.com/in/akshayrr1027/">

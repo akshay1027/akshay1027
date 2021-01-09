@@ -16,6 +16,10 @@
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
+github stats:
+<img src="https://github-readme-stats.vercel.app/api?username=akshay1027&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 <a href="mailto:akshayar1027@gmail.com">
   <img align="left" alt="akshay's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>

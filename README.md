@@ -5,7 +5,7 @@
  Iam also an avid, curious and focused developer. ✨ <br>
  Cloud, Full-stack and AR enthusiast. ☁<br>
 
-- :man_technologist: Code: HTML, CSS, JavaScript, React.js , Node.js, Next.js and C++. 🕸
+- :man_technologist: Code: HTML, CSS, JavaScript, React.js , Node.js, Express.js, Mongo DB, Low DB, Material UI, React-bootstrap, Next.js and C++. 🕸
 - 🔭 I’m currently working on ... Next js, Node js, APIs, Docker and web projects. 🐱‍👤
 - ⚡ Fun fact: ... Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 <br>
 

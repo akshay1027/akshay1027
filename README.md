@@ -15,9 +15,16 @@
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
 
-Here are some of my projects on Github
+## ⚙ My Projects
 
 [![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
+[![cricketliveapi](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=cricketliveapi&show_icons=true&theme=dark)](https://github.com/akshay1027/cricketliveapi) 
+
+[![clever-amazon](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=clever-amazon&show_icons=true&theme=dark)](https://github.com/akshay1027/clever-amazon)
+[![codeEditor_webdev](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=codeEditor_webdev&show_icons=true&theme=dark)](https://github.com/akshay1027/codeEditor_webdev)  
+
+[![Freelance-jewellery-website](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=Freelance-jewellery-website&show_icons=true&theme=dark)](https://github.com/akshay1027/Freelance-jewellery-website)
+
 
 ## 📚 My Skills
 
@@ -42,7 +49,7 @@ Here are some of my projects on Github
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## ❤ Connect

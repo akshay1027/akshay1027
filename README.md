@@ -15,9 +15,10 @@
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
 
-## ⚙ My Projects
+## ⚙ My Projects 
 
 [![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
+[![x-meme](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=x-meme&show_icons=true&theme=dark)](https://github.com/akshay1027/x-meme)
 [![cricketliveapi](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=cricketliveapi&show_icons=true&theme=dark)](https://github.com/akshay1027/cricketliveapi)
 [![clever-amazon](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=clever-amazon&show_icons=true&theme=dark)](https://github.com/akshay1027/clever-amazon)
 [![codeEditor_webdev](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=codeEditor_webdev&show_icons=true&theme=dark)](https://github.com/akshay1027/codeEditor_webdev)

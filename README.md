@@ -5,7 +5,7 @@
  Iam also an avid, curious and focused developer. ✨ <br>
  Cloud, Full-stack and AR enthusiast. ☁<br>
 
-- 🔭 I’m currently working on ... Next js, Node js, APIs, Docker and web projects. 🐱‍👤
+- 🔭 I’m currently working on ... Next js, Node js, APIs and web projects. 🐱‍👤
 - ⚡ Fun fact: ... Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 <br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay1027.visitor-badge&style=flat-square&color=0088cc)<br>
@@ -13,6 +13,8 @@
 ## ✍ My Work
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
+
+Here are some of my projects on Github
 
 [![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
 

@@ -15,7 +15,7 @@
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
 
-## ⚙ My Projects 
+## ⚙ My Projects
 
 [![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
 [![x-meme](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=x-meme&show_icons=true&theme=dark)](https://github.com/akshay1027/x-meme)

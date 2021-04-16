@@ -18,11 +18,9 @@
 ## ⚙ My Projects
 
 [![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
-[![cricketliveapi](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=cricketliveapi&show_icons=true&theme=dark)](https://github.com/akshay1027/cricketliveapi) 
-
+[![cricketliveapi](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=cricketliveapi&show_icons=true&theme=dark)](https://github.com/akshay1027/cricketliveapi)
 [![clever-amazon](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=clever-amazon&show_icons=true&theme=dark)](https://github.com/akshay1027/clever-amazon)
-[![codeEditor_webdev](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=codeEditor_webdev&show_icons=true&theme=dark)](https://github.com/akshay1027/codeEditor_webdev)  
-
+[![codeEditor_webdev](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=codeEditor_webdev&show_icons=true&theme=dark)](https://github.com/akshay1027/codeEditor_webdev)
 [![Freelance-jewellery-website](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=Freelance-jewellery-website&show_icons=true&theme=dark)](https://github.com/akshay1027/Freelance-jewellery-website)
 
 

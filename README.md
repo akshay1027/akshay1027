@@ -12,8 +12,9 @@
 
 ## ✍ My Work
 
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&hide_border=true)
-<br />
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
+
+[![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
 
 ## 📚 My Skills
 
@@ -49,4 +50,8 @@
 
 <a href="mailto:akshayar1027@gmail.com">
   <img align="left" alt="akshay's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+<a href="https://www.instagram.com/akshay_rr10/">
+  <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>

@@ -6,8 +6,8 @@
  Cloud, Full-stack and AR enthusiast. ☁
  <br>
 
-- 🔭 I’m currently working on ... React js, Node js, REST APIs and web projects. 🐱‍👤
-- ⚡ Fun fact: ... Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
+- 🔭 I’m currently working on ... React js, Express js, Dynamo DB, REST APIs and web projects. 🐱‍👤
+- ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
  <br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay1027.visitor-badge&style=flat-square&color=0088cc)<br>
@@ -49,6 +49,7 @@
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## ❤ Connect
+
 
 <a href="https://www.linkedin.com/in/akshayrr1027/">
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>

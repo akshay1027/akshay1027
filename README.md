@@ -19,7 +19,7 @@
 
 ## ⚙ My Projects
 
-[![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=pecquora&show_icons=true&theme=dark)](https://github.com/akshay1027/pecquora)
+[![pecquora](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=Quora&show_icons=true&theme=dark)](https://github.com/akshay1027/Quora)
 [![x-meme](https://github-readme-stats.vercel.app/api/pin/?username=akshay1027&repo=x-meme&show_icons=true&theme=dark)](https://github.com/akshay1027/x-meme)
 
 

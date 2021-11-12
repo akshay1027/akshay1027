@@ -1,11 +1,10 @@
 ## Hi, I'm Akshay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
- 
+
  I am a second year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
  Iam also an avid, curious and focused developer. ✨ <br>
  Cloud, Full-stack and AR enthusiast. ☁
  <br>
-
 
 - 🔭 I’m currently working on ... React js, Express js, Dynamo DB, REST APIs and web projects. 🐱‍👤
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 

@@ -6,7 +6,7 @@
  Cloud, Full-stack and AR enthusiast. ☁
  <br>
 
-- 🔭 I’m currently working on ... React js, Express js, Dynamo DB, REST APIs and web projects. 🐱‍👤
+- 🔭 I’m currently working on ... React js, Express js, Django, REST APIs and web projects. 🐱‍👤
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
  <br>
 
@@ -43,6 +43,7 @@
 ![Skill](https://img.shields.io/badge/MongoDB-0769AD?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Skill](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Skill](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=61DAFB)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Skill](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)

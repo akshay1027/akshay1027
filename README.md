@@ -51,7 +51,6 @@
 
 ## ❤ Connect
 
-
 <a href="https://www.linkedin.com/in/akshayrr1027/">
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>

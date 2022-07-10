@@ -4,7 +4,7 @@
  I am a second year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
  Iam also an avid, curious and focused developer. ✨ <br>
  Cloud, Full-stack and AR enthusiast. ☁
- <br>
+ <br >
 
 - 🔭 I’m currently working on ... React js, Express js, Django, REST APIs and web projects. 🐱‍👤
 - Currently Struggling with 6th Semester classes and 5th semester exams. Yes, you read that correctly!

@@ -60,11 +60,9 @@
   
 # 
 #
-## Some quotes ✅☑️
-* eat( ); sleep( ); code( ); repeat( );
+## ✅☑️ Some quotes
+* To become a great software developer, you must continuously read, learn, and code.
 
 * The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates.
-
-* To become a great software developer, you must continuously read, learn, and code.
 
 * Software development changed my life. Now, I want to use software development to change the lives of others.

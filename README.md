@@ -17,7 +17,6 @@
 
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshay1027&show_icons=true&theme=dark)
 
-
 ## 📚 My Skills
 
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,4 +56,15 @@
 
 <a href="https://www.instagram.com/akshay_rr10/">
   <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
-</a>
+</a>  
+  
+# 
+#
+## Some quotes ✅☑️
+* eat( ); sleep( ); code( ); repeat( );
+
+* The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates.
+
+* To become a great software developer, you must continuously read, learn, and code.
+
+* Software development changed my life. Now, I want to use software development to change the lives of others.

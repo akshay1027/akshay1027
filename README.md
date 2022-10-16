@@ -6,8 +6,8 @@
  Cloud, Full-stack and AR enthusiast. ☁
  <br >
 
-- 🔭 I’m currently working on ... React js, Express js, Django, REST APIs and web projects. 🐱‍👤
-- Currently Struggling with 6th Semester classes and 5th semester exams. Yes, you read that correctly!
+- 🔭 I’m currently working on ... Concurrency in Golang, Django, REST APIs and web projects. 🐱‍👤
+- Currently Struggling and/or husteling(postivity 😅) with 7th semester ECE subjects, managing my coding journey and football interets.
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
  <br>
 

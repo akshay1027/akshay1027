@@ -30,6 +30,9 @@
     <td>
       <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
+       <td>
+      <a title="Elixir" href="https://elixir-lang.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1481354?s=280&v=4" alt="Elixir" width="40" height="40"/> </a>
+    </td>
   </tr>
   <tr>
     <td>
@@ -44,8 +47,11 @@
     <td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
     </td>
+       <td>
+      <a title="Phoenix" href="https://www.phoenixframework.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/65683151/215454199-7f23401c-a837-465c-b4d1-67b1cb4999e8.png" alt="Phoenix" width="40" height="40"/> </a>
+    </td>
   </tr>
-  
+
   <tr>
     <td>
       <h4>Frontend Languages</h4>

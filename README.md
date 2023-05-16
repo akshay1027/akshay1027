@@ -1,9 +1,9 @@
 ## Hi, I'm Akshay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
- I am a second year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
- Iam also an avid, curious and focused developer. ✨ <br>
- Cloud, Full-stack and AR enthusiast. ☁
+ I am a final year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
+ I am a curious and focused developer. ✨ <br>
+ Full-stack and Cloud enthusiast. ☁
  <br >
 
 - 🔭 I’m currently working on ... Concurrency in Golang, Django, REST APIs and web projects. 🐱‍👤

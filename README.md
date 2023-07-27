@@ -1,7 +1,7 @@
 ## Hi, I'm Akshay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
- <h3>☁️🚀⚽| Building scalable Backend @ Hotelzify</h3>
+ ## ☁️🚀⚽| Building Scalable Backend @ Hotelzify</h3>
  <br >
 
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay1027.visitor-badge&style=flat-square&color=0088cc)<br>
 
-### Skills
+## Skills
 
 <table>
   <tr>
@@ -122,11 +122,3 @@
   <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>  
   
-# 
-#
-## ✅☑️ Some quotes
-* To become a great software developer, you must continuously read, learn, and code.
-
-* The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates.
-
-* Software development changed my life. Now, I want to use software development to change the lives of others.

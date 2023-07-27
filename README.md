@@ -1,18 +1,13 @@
 ## Hi, I'm Akshay! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
- I am a final year student at PTU(formerly PEC), Pondicherry, pursuing my Bachelors in Electronics and Communication Engineering.<br>
- I am a curious and focused developer. ✨ <br>
- Full-stack and Cloud enthusiast. ☁
+ <h3>☁️🚀⚽| Building scalable Backend @ Hotelzify</h3>
  <br >
 
-- 🔭 I’m currently working on ... Concurrency in Golang, Django, REST APIs and web projects. 🐱‍👤
-- Currently Struggling and/or husteling(postivity 😅) with 7th semester ECE subjects, managing my coding journey and football interets.
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Football ⚽| Company with friends 😻 
 - A developer should dabble in everything (frontend, backend, testing and QA/QC, infrastructure, devops), and build focus gradually and naturally.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akshay1027.visitor-badge&style=flat-square&color=0088cc)<br>
-
 
 ### Skills
 
